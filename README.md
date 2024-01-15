@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/rX0VO4YJcrjqw/giphy.gif" min-width="410px" max-width="410px" width="410px" align="right">
+<img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" min-width="350px" max-width="350px" width="350px" align="right">
 <h1 align="left">Hi dear <img src="https://cdn.discordapp.com/attachments/1063112899901530252/1187521782706606192/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif?ex=659730d8&is=6584bbd8&hm=4045f1b221aee556a31ec05b26c0c6f01b6796d9b7eb2385f808fa0aadfca03e" height="30px">, I`m Peppers!</h1>
 
 <h3> Navigating life's source code.</h3>
