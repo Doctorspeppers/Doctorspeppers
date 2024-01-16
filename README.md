@@ -4,7 +4,7 @@
 <h3> Navigating life's source code.</h3>
 
 <p align="left">
-• 🎓 Degree in IT at <a href="https://www.sp.senac.br//">IFC</a>.<BR>
+• 🎓 Degree in IT at <a href="https://ifc.edu.br/">IFC</a>.<BR>
 • 🧠 Enhancing my skills at <a href="https://solyd.com.br/">Solyd</a>, <a href="https://laravel.com/">Laravel</a> and <a href="https://www.beecrowd.com.br/judge/pt/profile/461984">beeCrowd</a>.<BR>
 </p>
 
