@@ -5,7 +5,7 @@
 
 <p align="left">
 • 🎓 Degree in IT at <a href="https://ifc.edu.br/">IFC</a>.<BR>
-• 🧠 Enhancing my skills at <a href="https://solyd.com.br/">Solyd</a>, <a href="https://laravel.com/">Laravel</a> and <a href="https://www.beecrowd.com.br/judge/pt/profile/461984">beeCrowd</a>.<BR>
+• 🧠 Working in my website <a href="https://home.pepper.dev.br/">pepper.dev.br</a>.<BR>
 </p>
 
 ## 🚀 My Tech Stack
