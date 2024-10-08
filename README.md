@@ -11,14 +11,14 @@
 ## 🚀 My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,php,js,py,laravel,linux,vscode,mysql,postgres,elasticsearch,nginx" />
+    <img src="https://skillicons.dev/icons?i=php,js,py,laravel,linux,vscode,mysql,postgres,redis,elasticsearch,nginx" />
   </a>
 </p> 
 
 ## 🛠️ Tools I use on a daily basis
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,docker,git,postman,discord" /> 
+    <img src="https://skillicons.dev/icons?i=bash,docker,git,postman,discord,aws" /> 
   </a>
 </p> 
 
