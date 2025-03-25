@@ -5,7 +5,7 @@
 
 <p align="left">
 • 🎓 Degree in IT at <a href="https://ifc.edu.br/">IFC</a>.<BR>
-• 🧠 Working in my website <a href="https://home.pepper.dev.br/">pepper.dev.br</a>.<BR>
+• 🧠 Working in my website <a href="https://pepper.dev.br/">pepper.dev.br</a>.<BR>
 </p>
 
 ## 🚀 My Tech Stack
